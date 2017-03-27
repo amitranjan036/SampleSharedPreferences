@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
         }
         else{}
 
-
     }
 
     @Override
@@ -45,7 +44,5 @@ public class MainActivity extends AppCompatActivity {
         editor.putString(APP_DESTROY_TIME,closeTime).apply();
 
     }
-
-
 
 }
